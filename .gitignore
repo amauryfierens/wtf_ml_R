@@ -15,3 +15,11 @@ configurations/
 .RData
 .Rproj.user/
 *.Rproj.user
+.Ruserdata
+.Renviron
+rsconnect/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
