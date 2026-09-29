@@ -1,0 +1,17 @@
+# Données : jamais versionnées par défaut (données réelles confidentielles).
+# Seuls les jeux simulés générés par simulate_data.R sont inclus.
+data/*
+!data/simulated.csv
+!data/export_qualtrics_probable.sav
+*.sav
+!data/export_qualtrics_probable.sav
+
+# Sorties et réglages locaux de l'interface
+resultats/
+configurations/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
